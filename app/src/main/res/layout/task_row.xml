@@ -52,17 +52,6 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
             android:layout_centerInParent="true"/>
 
-
-
-<!--        <com.google.android.material.chip.Chip-->
-<!--            android:id="@+id/chip"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:layout_below="@+id/radio_button"-->
-<!--            android:layout_marginLeft="40dp"-->
-<!--            android:text="Today"-->
-<!--            app:chipIcon="@drawable/ic_baseline_calendar_today_24"/>-->
-
     </RelativeLayout>
 
 
